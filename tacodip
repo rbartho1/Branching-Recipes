@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Recipes :: Renee's Taco Dip</title>
+    <meta charset="utf-8">
+    <link rel="icon" href="images/favicon.ico" type="image/x-icon">
+    <link rel="stylesheet" href="recipes.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+
+<body>
+    <div id="wrapper">
+        <header>
+            <h1><a href="home.html">Recipes</a></h1>
+        </header>
+        <main>
+            <div id="recipes">
+                <h2>Renee's Taco Dip</h2>
+                by Ashlyn Haas
+               
+                <div id="taco-dip">
+                    <div>
+                        <figure id="taco-dip-picture">
+                            <img src="images/tacodip.jpg"
+                                alt="A photo of taco dip in a dish">
+                        </figure>
+                    </div>
+                    <div>
+                        <h3>Ingredients</h3>
+                        <ul>
+                            <li class = "textmargin">1 package french onion soup mix</li><br>
+                            <li class = "textmargin">16 oz sour cream</li><br>
+                            <li class = "textmargin">16 oz cottage cheese</li><br>
+                            <li class = "textmargin">12 oz shredded lettuce</li><br>
+                            <li class = "textmargin">16 oz bottle taco sauce</li><br>
+                            <li class = "textmargin">2.25 oz canned olives</li><br>
+                            <li class = "textmargin">2 cups shredded cheese (of choice)</li><br>
+                            <li class = "textmargin">extra toppings are optional: onions, peppers, tomatoes, etc.</li>
+                        </ul>
+                        <h3>Directions</h3>
+                        <h4>Step 1</h4>
+                        <p class = "textmargin">
+                            Combine sour cream, cottage cheese, and french onion soup mix in a bowl and spread evenly into a dish.
+                        </p>
+                        <h4>Step 2</h4>
+                        <p class = "textmargin">
+                            Evenly spread taco sauce over the mixture and layer the lettuce, cheese, and olives. 
+                        </p>
+                        <h4>Step 3</h4>
+                        <p class = "textmargin">
+                            Add additional toppings to your liking. 
+                        </p>
+                        <h4>Step 4</h4>
+                        <p class = "textmargin">
+                            Chill the dip for at least 30 minutes until ready to serve.
+                        </p>
+                        <h4>Tip 1</h4>
+                        <p class = "textmargin">
+                             Lasts up to 3 days in refrigerator. If you would like to extend the freshness, do not add toppings until each time it is used. 
+                        </p>
+                        <br>
+                        <footer>
+                            <h2>Hungry For More?</h2>
+                        Check out all of our tasty recipes!
+                        <ul class="accessiblelinks">
+                            <li><a href="home.html">List of Recipes</a></li>
+                            <li><a href="recipetemplate.html">Recipe R1</a></li>
+                            <li><a href="mississippimud.html">Mississippi Mud Cookie Bars</a></li>
+                            <li><a href="tacodip.html">Renee's Taco Dip</a></li>
+                            <li><a href="recipetemplate.html">Recipe R4</a></li>
+                        </ul>Copyright &copy; 2023 Scrumptious Seven<br>
+                        </footer>
+                    </div>
+                </div>
+            </div>
+        </main>
+    </div>
+</body>
+>
+>
