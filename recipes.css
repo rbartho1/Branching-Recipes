@@ -72,6 +72,25 @@ main {
 	display: inline;
 }
 
+/*------------ Added by Terry Thompson ---------------*/
+#lemon-custard-pie {
+	width: 50%;
+	float: right;
+	padding-left: 10px;
+}
+
+#lemon-custard-pie img {
+	width: 100%;
+}
+
+#lemon-custard-pie figcaption {
+	text-align: center;
+}
+
+
+#lemon-custard-pie i {
+	font-size: small;
+}
 /*----------------------------------------------*/
 /*----------- Added by Ryan Bartholomew -----------*/
 
