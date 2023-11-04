@@ -223,6 +223,29 @@ footer {
 }
 
 /*----------------------------------------------*/
+
+/*----------------------------------------------*/
+/*----------- Added by Mike Lugo ------------*/
+
+#buttermilk-pancake figure {
+    float: right;
+    width: 35%;
+}
+
+#buttermilk-pancake figcaption {
+    text-align: center;
+}
+
+#pancake-picture img {
+    width: 100%;
+}
+
+#buttermilk-pancake p {
+    margin-top: 15px;
+    padding-left: 20px;
+}
+
+/*----------------------------------------------*/
 @media only screen and (max-width: 1024px) {
 	body {
 		margin: 0;
